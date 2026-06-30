@@ -1,4 +1,3 @@
-# Applications of Quiver Representations in Topological Data Analysis
 
 This repository contains my SURGE reading project completed under **Prof. Amit Kuber** at **IIT Kanpur**.
 
